@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.streamlit/
+data/*.db
+generated/*
+!generated/.gitkeep
+data/photos/
